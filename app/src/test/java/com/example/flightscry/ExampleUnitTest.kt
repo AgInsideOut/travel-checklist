@@ -1,4 +1,4 @@
-package com.aginsideout.travelchecklist
+package com.example.flightscry
 
 import org.junit.Test
 

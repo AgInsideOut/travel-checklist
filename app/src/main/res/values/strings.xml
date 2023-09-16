@@ -1,9 +1,3 @@
 <resources>
-    <string name="app_name">TravelChecklist</string>
-    <string name="item_name">Item Name</string>
-    <string name="item_description">Item Description</string>
-    <string name="item_quantity">Quantity: %1$d</string>
-    <string name="item_completed">Completed</string>
-    <string name="add_item_button_text">Add Item</string>
-    <string name="choose_location_label">Choose a Travel Location</string>
+    <string name="app_name">Flightscry</string>
 </resources>
