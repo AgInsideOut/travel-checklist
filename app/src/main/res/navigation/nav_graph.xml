@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/chooseLocationFragment"
+    >
+
+    <fragment
+        android:id="@+id/chooseLocationFragment"
+        android:name="com.aginsideout.travelchecklist.ChooseLocationFragment"
+        android:label="Choose Location"
+        tools:layout="@layout/fragment_choose_location" />
+
+    <!-- Add destinations for other fragments/pages here -->
+
+</navigation>
